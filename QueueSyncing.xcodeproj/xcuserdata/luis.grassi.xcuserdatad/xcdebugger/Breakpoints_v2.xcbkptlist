@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueueSyncing/ViewController.swift"
+            timestampString = "515447968.281578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueueSyncing.ViewController.observeValue (forKeyPath : Swift.Optional&lt;Swift.String&gt;, of : Swift.Optional&lt;Any&gt;, change : Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context : Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "QueueSyncing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.grassi/Documents/QueueSyncing/QueueSyncing/ViewController.swift"
+                  timestampString = "515447083.717415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueueSyncing.ViewController.(observeValue (forKeyPath : Swift.Optional&lt;Swift.String&gt;, of : Swift.Optional&lt;Any&gt;, change : Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context : Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()).(implicit closure #1)"
+                  moduleName = "QueueSyncing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.grassi/Documents/QueueSyncing/QueueSyncing/ViewController.swift"
+                  timestampString = "515447083.723229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
