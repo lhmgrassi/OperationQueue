@@ -29,8 +29,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonTapped(_ sender: Any) {
-        
-        queue = OperationQueue()
+               
         let operation1 = BlockOperation()
         let operation4 = BlockOperation()
         operation4.qualityOfService = .background
